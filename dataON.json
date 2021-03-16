@@ -7,13 +7,13 @@
         "NetworkAds": "mix",
         "AdMobId": "pub-9538560537207481",
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-9538560537207481/5997034114",
+        "InterstitialAdmob": "ca-app-pub-9538560537207481/4766523557",
+        "NativeAdmob": "ca-app-pub-9538560537207481/3453441883",
 
-        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeFacebook": "173186393601951_356298065290782"
+        "BannerFacebook": "435983687617409_435984620950649",
+        "InterstitialFacebook": "435983687617409_435984867617291",
+        "NativeFacebook": "435983687617409_435985140950597"
 
       }
     ],
